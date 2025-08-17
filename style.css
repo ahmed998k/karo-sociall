@@ -7,7 +7,7 @@
  }
 
  body{
-    background-color: rgb(182, 182, 182);
+    background-color: rgb(0, 0, 0);
 }
 
 h1{
@@ -35,13 +35,13 @@ i{
     margin: 30px;
    font-size: 30px;
    height: 40px;
-   width: 500px;
+   width: 400px;
    padding: 3px ;
    text-align: center;
-   border-radius: 7px;
+   border-radius: 20px;
   display: inline-block;
   transition: 1s;
-  background-color: #ffffffcf;
+  background-color: #9dff00;
       box-shadow: #000000 1px 2px 8px;
   }
   
@@ -75,7 +75,7 @@ i{
   }
   
   footer{
-    background-color: #ffffffcf;
+    background-color: #36ff04;
     height: 75px;
     margin-top: 20px;
     text-align: center;
